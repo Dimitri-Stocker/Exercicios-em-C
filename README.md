@@ -3,9 +3,11 @@ Repositório para armazenar exercícios realizados nas matérias de Lógica de P
 Linguagem utilizada: C.
 
 Conteúdo:
+- Exercícios básicos de introdução à linguagem;
 - Condicionais (if, else if, else);
 - Laços de repetição (while, for);
 - Vetores (Arrays);
 - Strings em C;
 - Matrizes;
-- Funções
+- Funções;
+- Structs
