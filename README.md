@@ -10,4 +10,6 @@ Conteúdo:
 - Strings em C;
 - Matrizes;
 - Funções;
-- Structs
+- Structs;
+- Pilha;
+- Fila
